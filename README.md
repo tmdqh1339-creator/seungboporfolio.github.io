@@ -1,1 +1,1 @@
-# seungboportfolio.github.io
+# seungboporfolio.github.io
